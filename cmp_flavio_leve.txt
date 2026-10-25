@@ -1,0 +1,26 @@
+seções 472,024 | verdade (Lula) 0.4991 | perfil do método B: ['s1_15', 's1_12', 's1_44', 's1_30', 's1_14']
+ hora   rec |  A erro   P(A) |  B erro   P(B) |  C erro   P(C) | consenso
+17:10    1% |  +0.020  0.430 |  -0.127  0.255 |  +1.931  0.821 | INDEFINIDO (2 de 3 métodos à frente: Flávio)
+17:20    3% |  -0.086  0.255 |  +0.100  0.500 |  +1.254  0.781 | INDEFINIDO (2 de 3 métodos à frente: Lula)
+17:30    8% |  +0.044  0.395 |  +0.155  0.610 |  -0.291  0.390 | INDEFINIDO (2 de 3 métodos à frente: Flávio)
+17:40   14% |  +0.047  0.430 |  +0.145  0.585 |  -0.117  0.435 | INDEFINIDO (2 de 3 métodos à frente: Flávio)
+17:50   21% |  +0.073  0.440 |  +0.136  0.565 |  -0.159  0.415 | INDEFINIDO (2 de 3 métodos à frente: Flávio)
+18:00   29% |  +0.093  0.545 |  +0.126  0.590 |  -0.185  0.398 | INDEFINIDO (2 de 3 métodos à frente: Lula)
+18:10   36% |  +0.046  0.415 |  +0.097  0.500 |  -0.166  0.394 | INDEFINIDO (2 de 3 métodos à frente: Flávio)
+18:20   44% |  +0.058  0.400 |  +0.062  0.385 |  -0.174  0.375 | INDEFINIDO (todos à frente: Flávio, mas sem folga)
+18:30   54% |  +0.025  0.290 |  +0.038  0.290 |  -0.160  0.357 | INDEFINIDO (todos à frente: Flávio, mas sem folga)
+18:40   64% |  +0.020  0.190 |  +0.031  0.270 |  -0.133  0.336 | INDEFINIDO (todos à frente: Flávio, mas sem folga)
+18:50   74% |  +0.021  0.160 |  +0.025  0.130 |  -0.109  0.301 | INDEFINIDO (todos à frente: Flávio, mas sem folga)
+19:00   84% |  +0.008  0.025 |  +0.013  0.000 |  -0.072  0.241 | TENDÊNCIA Flávio (todos os métodos)
+19:10   91% |  +0.004  0.000 |  +0.007  0.000 |  -0.047  0.157 | TENDÊNCIA Flávio (todos os métodos)
+19:20   94% |  -0.001  0.000 |  +0.003  0.000 |  -0.032  0.075 | TENDÊNCIA Flávio (todos os métodos)
+19:30   97% |  -0.000  0.000 |  +0.000  0.000 |  -0.021  0.005 | Flávio MUITO PROVÁVEL (todos os métodos)
+19:40   98% |  +0.001  0.000 |  +0.000  0.000 |  -0.015  0.000 | Flávio MUITO PROVÁVEL (todos os métodos)
+19:50   99% |  +0.001  0.000 |  +0.001  0.000 |  -0.011  0.000 | Flávio PRATICAMENTE DECIDIDO (todos os métodos)
+20:00   99% |  +0.001  0.000 |  +0.001  0.000 |  -0.008  0.000 | Flávio PRATICAMENTE DECIDIDO (todos os métodos)
+
+=== RESUMO (erro em pp do share final; z ~ N(0,1) se o intervalo estiver calibrado) ===
+     A swing+chegada: |erro| médio 0.030 | máx 0.093 | viés +0.021 | desvio de z 0.19 | lado errado >=75%: 0 | 1º >=99% certo: 19:10
+     B transferência: |erro| médio 0.059 | máx 0.155 | viés +0.045 | desvio de z 0.29 | lado errado >=75%: 0 | 1º >=99% certo: 19:00
+   C contagem rápida: |erro| médio 0.271 | máx 1.931 | viés +0.082 | desvio de z 0.41 | lado errado >=75%: 2 | 1º >=99% certo: 19:30
+            CONSENSO: 1º 'PRATICAMENTE DECIDIDO': 19:50 | instantes apontando o lado errado: 0

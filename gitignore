@@ -1,0 +1,22 @@
+# dados (grandes e/ou gerados) — ficam só no seu PC
+coleta/
+coleta*/
+saida_bu/
+bu2026_1t/
+2018/
+2026/
+*.csv
+*.jsonl
+*.zip
+estado*.json
+indice_resumo.json
+oficial.json
+.enviadas_*
+sonda_saida/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# segredos: nunca versionar
+.env
+*.env

@@ -1,0 +1,26 @@
+seções 472,024 | verdade (Lula) 0.5010 | perfil do método B: ['s1_15', 's1_12', 's1_44', 's1_30', 's1_14']
+ hora   rec |  A erro   P(A) |  B erro   P(B) |  C erro   P(C) | consenso
+17:10    1% |  +0.018  0.620 |  -0.127  0.500 |  +0.023  0.583 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+17:20    3% |  -0.088  0.515 |  +0.099  0.765 |  +0.043  0.599 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+17:30    8% |  +0.042  0.710 |  +0.154  0.840 |  +0.116  0.655 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+17:40   14% |  +0.046  0.730 |  +0.145  0.915 |  +0.082  0.641 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+17:50   21% |  +0.072  0.795 |  +0.135  0.915 |  +0.083  0.654 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+18:00   29% |  +0.092  0.825 |  +0.126  0.900 |  +0.066  0.654 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+18:10   36% |  +0.045  0.820 |  +0.096  0.895 |  +0.058  0.663 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+18:20   44% |  +0.058  0.865 |  +0.062  0.885 |  +0.044  0.669 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+18:30   54% |  +0.025  0.865 |  +0.038  0.895 |  +0.027  0.681 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+18:40   64% |  +0.019  0.945 |  +0.031  0.920 |  +0.020  0.718 | INDEFINIDO (todos à frente: Lula, mas sem folga)
+18:50   74% |  +0.021  0.960 |  +0.024  0.975 |  +0.012  0.772 | TENDÊNCIA Lula (todos os métodos)
+19:00   84% |  +0.008  1.000 |  +0.012  1.000 |  +0.009  0.884 | TENDÊNCIA Lula (todos os métodos)
+19:10   91% |  +0.004  1.000 |  +0.007  1.000 |  +0.006  0.975 | Lula MUITO PROVÁVEL (todos os métodos)
+19:20   94% |  -0.001  1.000 |  +0.003  1.000 |  +0.004  0.999 | Lula MUITO PROVÁVEL (todos os métodos)
+19:30   97% |  -0.000  1.000 |  +0.000  1.000 |  +0.002  1.000 | Lula MUITO PROVÁVEL (todos os métodos)
+19:40   98% |  +0.001  1.000 |  +0.000  1.000 |  +0.001  1.000 | Lula PRATICAMENTE DECIDIDO (todos os métodos)
+19:50   99% |  +0.001  1.000 |  +0.001  1.000 |  +0.000  1.000 | Lula PRATICAMENTE DECIDIDO (todos os métodos)
+20:00   99% |  +0.001  1.000 |  +0.001  1.000 |  +0.001  1.000 | Lula PRATICAMENTE DECIDIDO (todos os métodos)
+
+=== RESUMO (erro em pp do share final; z ~ N(0,1) se o intervalo estiver calibrado) ===
+     A swing+chegada: |erro| médio 0.030 | máx 0.092 | viés +0.020 | desvio de z 0.19 | lado errado >=75%: 0 | 1º >=99% certo: 19:00
+     B transferência: |erro| médio 0.059 | máx 0.154 | viés +0.045 | desvio de z 0.29 | lado errado >=75%: 0 | 1º >=99% certo: 19:00
+   C razão estratif.: |erro| médio 0.033 | máx 0.116 | viés +0.033 | desvio de z 0.05 | lado errado >=75%: 0 | 1º >=99% certo: 19:20
+            CONSENSO: 1º 'PRATICAMENTE DECIDIDO': 19:40 | instantes apontando o lado errado: 0

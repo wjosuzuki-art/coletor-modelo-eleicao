@@ -1,0 +1,35 @@
+seções 454,442 | verdade (Haddad) 0.4487 | perfil do método B: ['s1_12', 's1_45', 's1_30', 's1_51', 's1_15']
+ hora   rec |  A erro   P(A) |  B erro   P(B) |  C erro   P(C) | consenso
+17:10    0% |  +3.808  0.160 |  +0.451  0.000 |  +4.246  0.140 | TENDÊNCIA Bolsonaro (todos os métodos)
+17:20    3% |  +1.237  0.000 |  +0.698  0.000 |  +0.967  0.000 | Bolsonaro MUITO PROVÁVEL (todos os métodos)
+17:30    7% |  +0.838  0.000 |  +0.759  0.000 |  +0.296  0.000 | Bolsonaro MUITO PROVÁVEL (todos os métodos)
+17:40   12% |  +0.771  0.000 |  +0.612  0.000 |  +0.303  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+17:50   19% |  +0.690  0.000 |  +0.639  0.000 |  +0.228  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+18:00   25% |  +0.853  0.000 |  +0.542  0.000 |  +0.201  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+18:10   32% |  +0.763  0.000 |  +0.521  0.000 |  +0.169  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+18:20   40% |  +0.687  0.000 |  +0.403  0.000 |  +0.152  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+18:30   49% |  +0.610  0.000 |  +0.340  0.000 |  +0.139  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+18:40   59% |  +0.505  0.000 |  +0.305  0.000 |  +0.131  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+18:50   69% |  +0.423  0.000 |  +0.285  0.000 |  +0.120  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+19:00   78% |  +0.327  0.000 |  +0.210  0.000 |  +0.124  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+19:10   85% |  +0.265  0.000 |  +0.123  0.000 |  +0.170  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+19:20   89% |  +0.207  0.000 |  +0.085  0.000 |  +0.040  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+19:30   92% |  +0.137  0.000 |  +0.061  0.000 |  +0.031  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+19:40   94% |  +0.096  0.000 |  +0.054  0.000 |  +0.028  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+19:50   95% |  +0.076  0.000 |  +0.044  0.000 |  +0.024  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+20:00   96% |  +0.062  0.000 |  +0.035  0.000 |  +0.017  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+20:10   97% |  +0.048  0.000 |  +0.030  0.000 |  +0.014  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+20:20   97% |  +0.038  0.000 |  +0.024  0.000 |  +0.010  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+20:30   98% |  +0.029  0.000 |  +0.022  0.000 |  +0.008  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+20:40   98% |  +0.022  0.000 |  +0.021  0.000 |  +0.007  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+20:50   99% |  +0.016  0.000 |  +0.020  0.000 |  +0.006  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+21:00   99% |  +0.012  0.000 |  +0.019  0.000 |  +0.006  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+21:10   99% |  +0.016  0.000 |  +0.016  0.000 |  +0.006  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+21:20   99% |  +0.015  0.000 |  +0.007  0.000 |  +0.012  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+21:30  100% |  +0.009  0.000 |  +0.004  0.000 |  +0.004  0.000 | Bolsonaro PRATICAMENTE DECIDIDO (todos os métodos)
+
+=== RESUMO (erro em pp do share final; z ~ N(0,1) se o intervalo estiver calibrado) ===
+     A swing+chegada: |erro| médio 0.465 | máx 3.808 | viés +0.465 | desvio de z 0.66 | lado errado >=75%: 0 | 1º >=99% certo: 17:20
+     B transferência: |erro| médio 0.234 | máx 0.759 | viés +0.234 | desvio de z 0.42 | lado errado >=75%: 0 | 1º >=99% certo: 17:10
+   C razão estratif.: |erro| médio 0.276 | máx 4.246 | viés +0.276 | desvio de z 1.01 | lado errado >=75%: 0 | 1º >=99% certo: 17:20
+            CONSENSO: 1º 'PRATICAMENTE DECIDIDO': 17:40 | instantes apontando o lado errado: 0
